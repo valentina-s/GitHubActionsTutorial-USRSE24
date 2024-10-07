@@ -2,7 +2,7 @@ name: Ambient Sound Processing
 
 on:
   schedule:
-   - cron: '53 22 7 10 *'
+   - cron: '54 22 7 10 *'
     
 jobs:
   process:
